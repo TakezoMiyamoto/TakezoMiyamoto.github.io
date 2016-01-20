@@ -2,3 +2,10 @@
     font-family: "メイリオ", Meiryo;
 }
 
+.thumbnail {
+    min-height: 500px;
+}
+
+.thumbnail img {
+    max-height: 300px;
+}
