@@ -15,16 +15,29 @@ header {
     text-align: center;
 }
 
-#logo img {
+#MyPic {
     max-width: 120px;
     border: 2px solid #fff;
     border-radius: 100%;
     margin-top: 70px;
 }
 
+#GitLogo {
+    background-image: url(GitHub-Mark-32px.png);
+}
+
 #logo h1 {
     color: #fff;
     font-size: 24px;
     margin: 20px 0 0 0;
+}
+
+.container {
+    max-width: 800px;
+    background-color: #fff;
+}
+
+section p {
+    margin-left: 20px;
 }
 
