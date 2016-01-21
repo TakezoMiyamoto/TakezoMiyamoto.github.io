@@ -1,0 +1,14 @@
+* {
+    font-family: "メイリオ", Meiryo;
+}
+.container h1 {
+    padding-bottom: 10px;
+}
+
+.thumbnail {
+    min-height: 500px;
+}
+
+.thumbnail img {
+    max-height: 300px;
+}

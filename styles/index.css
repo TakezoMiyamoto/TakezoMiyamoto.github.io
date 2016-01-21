@@ -1,0 +1,40 @@
+* {
+    font-family: "メイリオ", Meiryo;
+}
+
+header {
+    background-image: url(../images/newyork.jpg);
+    background-position: center center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-bottom: 50px;
+}
+
+#logo {
+    padding: 20px 0;
+    text-align: center;
+}
+
+#MyPic {
+    max-width: 120px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    margin-top: 70px;
+}
+
+
+#logo h1 {
+    color: #fff;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+}
+
+.container {
+    max-width: 800px;
+    background-color: #fff;
+}
+
+section p {
+    margin-left: 20px;
+}
+
