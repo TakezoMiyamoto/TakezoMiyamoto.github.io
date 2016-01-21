@@ -38,3 +38,10 @@ section p {
     margin-left: 20px;
 }
 
+footer {
+    padding: 2px 0;
+    text-size: 12px;
+    text-align: center;
+    background-color:#F8F8FF;
+    color: #666;
+}

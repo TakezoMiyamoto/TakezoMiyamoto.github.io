@@ -1,7 +1,7 @@
 * {
     font-family: "メイリオ", Meiryo;
 }
-.container h1 {
+.container h2 {
     padding-bottom: 10px;
 }
 
@@ -11,4 +11,12 @@
 
 .thumbnail img {
     max-height: 300px;
+}
+
+footer {
+    padding: 2px 0;
+    text-size: 12px;
+    text-align: center;
+    background-color:#F8F8FF;
+    color: #666;
 }
